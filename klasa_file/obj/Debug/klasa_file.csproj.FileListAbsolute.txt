@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\bin\Debug\klasa_file.exe.config
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\bin\Debug\klasa_file.exe
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\bin\Debug\klasa_file.pdb
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\obj\Debug\klasa_file.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\obj\Debug\klasa_file.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\obj\Debug\klasa_file.exe
+C:\Users\Ucenik\source\repos\klasa_file\klasa_file\obj\Debug\klasa_file.pdb
